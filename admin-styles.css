@@ -1,0 +1,39 @@
+body {
+    height:100%;
+    width:100%;
+    margin:0;
+  }
+  
+  h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10%;
+}
+  .cent {
+    margin:auto;/* nice thing of auto margin if display:flex; it center both horizontal and vertical :) */
+    text-align: center;
+    width: 20%;
+    border:1px solid rgb(197, 196, 196);
+    margin-top: 5%;
+    background-color: white;
+    
+}
+.resize{
+    width: 50%;
+    height: auto;
+}
+.nav-link{
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.3rem;
+}
+
+.nav-item{
+  margin: 2px;
+}
+
+#website-name{
+  font-family: 'Merriweather', serif;
+   padding-top: 2%;
+   font-size: 1.5rem;
+}
